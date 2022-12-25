@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: burlywood;
+    background-color: #F5F5F5;
 }
 .box {
     width: 1183px;
